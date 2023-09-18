@@ -1,0 +1,4178 @@
+fileFormatVersion: 2
+guid: ff2fa3682bdc41149b957b4ca86d2710
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon varios_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb5af7467de7c439c10327f48bce79
+      internalID: -1362206033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7e5f24381c414c9adeeb7434c2649
+      internalID: -1145515248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 738
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237815707cd3b974ba788517187979cc
+      internalID: -787482533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4bf7f9d2c9bf4c91816be1dfcaad6
+      internalID: 1822054094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb2acbc5c392ac49bb99a7ca5b1c34c
+      internalID: 1022408770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768b3d812213c1e4f819d569bab77ad3
+      internalID: -1110122263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73818555ef0f4bf48b95c0fdb9372f66
+      internalID: -36575634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70010807ba687b4f8b1561c09a83db5
+      internalID: 1494452821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 706
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b93eb570cb1e94e98f3d1bd9943e21
+      internalID: -1458881001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605bf086dde9c8345bc5021dfbf085cb
+      internalID: 1909185253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5262c80579043343b3f7b580135ec02
+      internalID: -905989948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e257c3f43af0d47bcf286b879261ff
+      internalID: 1708349356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de825d136bef6044b6cc589f1d2401c
+      internalID: -707036595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f154d531077af4e44a3bf02cff4a71b7
+      internalID: 480267960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40601ba42d1b1469d3adb7624c823c
+      internalID: -789557956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74406fd3597645243b0b1bb541092597
+      internalID: -1500133547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1281a1f23ddc240b7488e3a493839e
+      internalID: 1917630850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3c786cc2d6754680370e5d81853bb
+      internalID: -1474475647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b34d03ff9c9a40b9c225cfe3d4f6a
+      internalID: 986275237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47d75f0b0313d408dedfba0604d477
+      internalID: -1906036776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 642
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21742f380eee8d4097266efa269cb39
+      internalID: -240844146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 642
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c119f2a0ca16b4f9d943c5103ef3b2
+      internalID: -1344666938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7898cd11aa97e44ca1d66674b2bdd46
+      internalID: 673106603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2073238faae54aaedc8a8d622654f
+      internalID: 172027229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf6653094c41444ad4aa3328bc317e
+      internalID: -1452104006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199a823f7bfeaf040878c9b6d5dfea05
+      internalID: -533830105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 641
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0060eff3df3d458f52216b3d14d61
+      internalID: -1015079394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 641
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6a010640960d74995a64d78bb76df9
+      internalID: 1835908504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf445420cf45d4498710f8be3bc5ee
+      internalID: 1326245203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446d2701e068318448b19b019e23bf22
+      internalID: 916735447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b81d6b906a48c144b420ee580406c09
+      internalID: -910093196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_64
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a436deeb8d85c4ba9c76dc366659b8
+      internalID: 753590778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a81ee97e0b3d1a459040bb24a0d7e33
+      internalID: 168964953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c7bd279f1f7d45992cff8574905a6
+      internalID: 16638396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 610
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab08a529956a84098e3577d1c8ddaf
+      internalID: -100598539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 610
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d77bc2d3ce1d643b0650fff12df07c
+      internalID: 616726358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 610
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adbe3cb478c5174185cf93ed20fc043
+      internalID: -1676356186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 610
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341c2fe932b89544b8a9802d60628dfa
+      internalID: -763299083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 610
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10ef5fef4af3d4d8027f01fc67704f
+      internalID: -1693131459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_76
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 610
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72e887f2f61894419fa46d4720826e5
+      internalID: 2025141249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd7b947160efe4f928d64377ea9c93
+      internalID: 1587115016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e350ea02c44be4f915f0f83fe1f7c1
+      internalID: -337336009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df36935ac097a743ab742513986943c
+      internalID: -1075902431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88231c9bfb87ff24dac3a4b5993e682a
+      internalID: -1385531113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_83
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 609
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1525e1156869a43b0ba4129c02e42f
+      internalID: 773975930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804935a6541b9294a9f37d6f28599006
+      internalID: 1267170357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34849da173a674c91e48ccf669b436
+      internalID: -35590485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_87
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a0a738e20526a4d86c2447366c9457
+      internalID: 1964153297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ab91d3b946cd04fa57b6d0f301a943
+      internalID: -531439005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 610
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b541b9d852b4364f9454b803bc29242
+      internalID: 2078347871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_90
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 610
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e4eb7584d1984589f5436ecccdd9f
+      internalID: 1688504020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_91
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 610
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c6843af406d9445af4db271a59e35a
+      internalID: -948614672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_92
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 610
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa93e2ddcc39414da66920330e1409c
+      internalID: -1743211685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 578
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f481a36ec91cd4d8d9feb3c86a8f47
+      internalID: 1975231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 578
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f2f79c8abb564298cc6f1c9a80f46
+      internalID: 753358671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8fabc3e8ed784a805c207c74d570b
+      internalID: 574009055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 577
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b13f56b92ec1f246ba7f8fd9856129c
+      internalID: -669758013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_109
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 577
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564116b781ec7334582b716afbe38c1b
+      internalID: 1659559007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec03b2f42b0d949acc843bdb1c7d21
+      internalID: 881719796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_112
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbba840b070b49408ac695de810baf8
+      internalID: 1003439978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_113
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9574f1603ec641be434ea953002ae
+      internalID: -1131332513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a18be27f1c2c9498ac9daa980f03b6
+      internalID: -1609431348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_115
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee9e05d2dba58e4b8b8b3d8c060e79f
+      internalID: 1025072008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_116
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9213eb0c32e3d5f44b0f93e3553a3547
+      internalID: -1868207785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_117
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf80f10652a1b8046a970a0e985f28c3
+      internalID: -31954594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_118
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 578
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b80b660c12cd4eb114141a9c3c5c8
+      internalID: -2128014079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 546
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7729b583a29595b499dd8eeaa30bff6c
+      internalID: 715473310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_126
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 546
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89115fd95d3396944a6a161e55b2c86b
+      internalID: -1673418468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_127
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 545
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f914fd3e46f847b4340be0a98e01b
+      internalID: 358493664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 545
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca3ad66e5a47e544a15ad85229fc220
+      internalID: -152961684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_129
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 546
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60bc4592c8fcd43849b6da7637a21c
+      internalID: -1387584327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_131
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 546
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e799e3d15bd10448d420102f549307
+      internalID: -832655492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_132
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 548
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f851d360712d1646ae237fd7050e157
+      internalID: -1124985283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db27ba47e669834a8dca6b87a3f0592
+      internalID: -738192380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_135
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf2487c735a5ae44b58ab84595cb371
+      internalID: -1037604816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_136
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c025ec45190b10346aee64f295fe03e4
+      internalID: -1977037670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_139
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9befde5ed448c54ba7d1293e2493398
+      internalID: 697702388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_140
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d408e4ff2e4b43946a3367fcccddf
+      internalID: -2132084780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_142
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcfcb3d42665cf488ebda88199681d5
+      internalID: -1038259180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_143
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e22e275326e864485bee01e2dcd668
+      internalID: -567060222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_144
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb963aee1b6a54796fbfc4ee91c46d
+      internalID: 1056454982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_146
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa0e9494dec6b40be4f290fcbc775e
+      internalID: 722377662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_147
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e43ae4a0f0cb4aa9e040ae6751aac
+      internalID: 203959099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_164
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5058b06da8233e24c84ecc8dc90d7f5b
+      internalID: 868047099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_165
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c5d3a61e0d5ba4fb3ca3fec9c67add
+      internalID: 1235485366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_166
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbaa1ff5dae75f4a80fa1f1976c5dee
+      internalID: 499185617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 526
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fce64a033689a4681c1f60d46da5f4
+      internalID: 268505725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859cadd56f7cee479f6179ce14eb606
+      internalID: -23994931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_170
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 514
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6388cd48f0be66b45818dd8363449089
+      internalID: -1409186898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_173
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 490
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019918c1a7ce85449c01a647abfcb5f
+      internalID: -23958859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1a21632ed07cd4b890321635918d03
+      internalID: 1646940230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_180
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 482
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d499c57675365141b6bb81a5bcef149
+      internalID: 1719857868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a9223357a6534d9f6a26cd8939c8a
+      internalID: -303522220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 482
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d127f92510280654f99df474d830155b
+      internalID: -1964171178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_193
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94352395cb769744b47a45acb02e896
+      internalID: 1081430923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_194
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07f03dfdaabf949b8b6eeffb77327e
+      internalID: 434010935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_195
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ddb9f450b2b314da332e1cb25debbd
+      internalID: 1459903719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6310b4fe0c1984f4a8d1f083d26d67eb
+      internalID: -115363631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_209
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 418
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa76f60c9d08654eb932df10922097e
+      internalID: -1476576798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_215
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 420
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0bcdf2c393aa841bfb5e150b8efeb0
+      internalID: 2003667209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_234
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 416
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed92ab0827d0a945b0da8658948478b
+      internalID: -1361544894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb311368e2239e41a8893f8d7971a3a
+      internalID: 1480540367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_245
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d346b56091d8243abf8d5bebac4254
+      internalID: -1312970917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_246
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 418
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e478fa5bba9515141a3101eb0497c98f
+      internalID: -1625325064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_249
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36202750b15e2a4a84f05aabf447ee9
+      internalID: -1045223681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_251
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 420
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018ef81a2f162e45b6e38be31c1b80b
+      internalID: -1027506000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_254
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 420
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ddd8947b8eedb408bc5dd94a4bfcfe
+      internalID: -1064299863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_260
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 418
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf123a6ad7f8e04cb09a7e6b35bbd4f
+      internalID: 912692037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_271
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc3babc450ca25479bf971b044c4cce
+      internalID: -515652385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_272
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4aa76d0b8f0584b9a439138321f293
+      internalID: -1138241342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_273
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda35d716f22c247b96c2181680eddd
+      internalID: 2054121219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_274
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74d610e42369d4e8b3c43f16857247
+      internalID: 1259525056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_275
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ccf3a38a72a2b4ab7045dbd1d35078
+      internalID: -404486398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_282
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3828029ff6d5c23469d9b444994a4c92
+      internalID: -1695754561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_307
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f994dd2b6008cd43bce789ba54d1941
+      internalID: -54921138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_308
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54852b39bbe364db5d5b485e1e10fb
+      internalID: 59233011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_309
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be70d99fbd25bfd4892a9c6b0b3d6125
+      internalID: 1628468796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_310
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce50a4547cfcf84b86b8267d9a5b074
+      internalID: 673062008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_311
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 385
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276a222ffcfa314da2ff53cf3f4097f
+      internalID: 1599116675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_318
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a94545d6d43c43bc00c32bc740674
+      internalID: -1568131098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_319
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 354
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c2a594f5ef8b418c4a5896be4ba51
+      internalID: -1951985484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_320
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 356
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4d05da6e063dd47ad2849108588d55
+      internalID: -1010319455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_331
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 352
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd19f430e8419154a99d9a94f4749d6f
+      internalID: 662187887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_334
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 352
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a378633834fc7428025470c38a67ed
+      internalID: 427751644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_337
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 352
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc443a872ace9d499bfdce8663461b5
+      internalID: 1929185280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_340
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 352
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5eb31102eac174082be3fac33a30d7
+      internalID: 505733252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_342
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f5be33b358604aa331344e039d894
+      internalID: -657707994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_343
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60274ac967ffc745981b796d1d1a7e0
+      internalID: -1058639063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_344
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc4313101889f4396544fa2e8a5601
+      internalID: 323962280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_358
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 320
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc860b354aab947458f74b75352a4e2d
+      internalID: -507962319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_403
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 31
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe537bb5bc35c9c4db15fef8e3f74d3c
+      internalID: 559973583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_405
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00294f7f0a531a43b75c9675849ace0
+      internalID: -1874681359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_407
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 288
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395658ec5793e0498d7db0b38726672
+      internalID: -116167435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_410
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 288
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986ff3ce11c0674e9a2d7bb5614d024
+      internalID: 286695509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_413
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 288
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4f483ffe74dc849babd0956385dfdd
+      internalID: 522657920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_457
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 197
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f40ef2d78b6c45a30f8dfc028de5a
+      internalID: -1150458661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_462
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 196
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4fdc7db4cb4ba489e2874d2555d483
+      internalID: 1721361075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_467
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 196
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d2e1fd661b72b4e9285e7de698debd
+      internalID: -1096248403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_472
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 226
+        width: 60
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9748a7d78d5419549806e664caa15da5
+      internalID: 1080408508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_475
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 60
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390016c9a43b29147ab80763e91b7663
+      internalID: -1916764872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_480
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf01c205f0e2474d80ef4c723d17980
+      internalID: -516189221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_483
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a35bbea2b6f204ba11feb68c3d02c2
+      internalID: 462667917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_484
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c998d56ff5fcc1e4cbd58d5c271016ad
+      internalID: -1507013411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_485
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a50b5df1f452419f57c2eb090de05
+      internalID: -552243946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_514
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 128
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce9dca537664ae48965cbc6a1fd9ffd
+      internalID: 1089182131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_542
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 174
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e3d2e301bbba4f94a937ef08d4443
+      internalID: 1639673315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_543
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 174
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac25b498b8e9946a5b2d303a399c02
+      internalID: 511689444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_544
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 174
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80beaefe4a53d4da670cf0df11e627
+      internalID: 1166564685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_547
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8310040720fbb349bc6c2bbb003bcd5
+      internalID: -1310790139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_548
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f9b3ebdcc29a14e9aed27b7842b1f3
+      internalID: 1589544565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_554
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 128
+        width: 36
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc288e8cea8ff624a846c38691e37a1d
+      internalID: 1459498948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_557
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 127
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f550a00ad1e4b134f9f9b50299f132f3
+      internalID: 1416195148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_558
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7aff5f802cf6419e4d2d30e0bb985
+      internalID: -1093526437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_559
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bbfaa9aebc17145894e55986f14d87
+      internalID: -895348268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_576
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5d32abc58cf174d88948a9b2d4c028
+      internalID: -2016745930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_618
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab3ab4dc6e99049b34f3c06b7b6cbb
+      internalID: -1095009769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_636
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 36
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24baf4b34b502fc459253402a459b496
+      internalID: -1410443411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_641
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 36
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d15b4123967514d8e87144c1d9238c
+      internalID: -87677876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon varios_648
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 36
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5239fda3515937438ecc1b173039558
+      internalID: 1087948250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dungeon varios_302: -198857931
+      dungeon varios_495: -1755534688
+      dungeon varios_235: 286602435
+      dungeon varios_125: 2018037684
+      dungeon varios_287: 1301872699
+      dungeon varios_402: 1795512077
+      dungeon varios_619: 405460130
+      dungeon varios_108: -669758013
+      dungeon varios_589: 916276229
+      dungeon varios_392: -612902885
+      dungeon varios_371: 581049044
+      dungeon varios_643: -1553292204
+      dungeon varios_614: 1594904563
+      dungeon varios_237: -1490853656
+      dungeon varios_388: 285999441
+      dungeon varios_456: 438094788
+      dungeon varios_145: 76241821
+      dungeon varios_559: -895348268
+      dungeon varios_360: 690562556
+      dungeon varios_556: -1757494679
+      dungeon varios_646: -1537812136
+      dungeon varios_59: -1015079394
+      dungeon varios_332: -746909982
+      dungeon varios_382: 934789774
+      dungeon varios_437: 486532974
+      dungeon varios_500: 890344717
+      dungeon varios_378: -343018700
+      dungeon varios_263: -1704633768
+      dungeon varios_647: -826254873
+      dungeon varios_107: -1000325360
+      dungeon varios_267: -1512971705
+      dungeon varios_123: -714448066
+      dungeon varios_269: -2114721259
+      dungeon varios_669: 717239924
+      dungeon varios_407: -116167435
+      dungeon varios_42: 1465397759
+      dungeon varios_337: 1929185280
+      dungeon varios_137: 1090137591
+      dungeon varios_510: 1266337050
+      dungeon varios_399: 827518023
+      dungeon varios_577: 535570919
+      dungeon varios_301: -845764100
+      dungeon varios_258: -1554307512
+      dungeon varios_584: 1425072436
+      dungeon varios_109: 1659559007
+      dungeon varios_307: -54921138
+      dungeon varios_671: 738703054
+      dungeon varios_323: -1454359960
+      dungeon varios_310: 673062008
+      dungeon varios_223: 2060700012
+      dungeon varios_479: -803582368
+      dungeon varios_520: 1850325252
+      dungeon varios_12: -1110122263
+      dungeon varios_516: 1140475038
+      dungeon varios_561: -414856860
+      dungeon varios_158: 1873153892
+      dungeon varios_588: -1104725246
+      dungeon varios_179: 1646940230
+      dungeon varios_377: -1710241611
+      dungeon varios_265: 679792910
+      dungeon varios_298: -1041619914
+      dungeon varios_599: -493410984
+      dungeon varios_58: -1546495481
+      dungeon varios_75: 1827356537
+      dungeon varios_281: 113286205
+      dungeon varios_419: -215491546
+      dungeon varios_169: -23994931
+      dungeon varios_439: 1673950455
+      dungeon varios_385: -1933027223
+      dungeon varios_16: 1494452821
+      dungeon varios_356: 1465804148
+      dungeon varios_149: 1993420417
+      dungeon varios_317: 1017202645
+      dungeon varios_560: -185681115
+      dungeon varios_116: -1868207785
+      dungeon varios_398: 844144371
+      dungeon varios_294: -717365129
+      dungeon varios_410: 286695509
+      dungeon varios_566: -1898343350
+      dungeon varios_364: -532418905
+      dungeon varios_254: -1064299863
+      dungeon varios_415: 1860844151
+      dungeon varios_112: 1003439978
+      dungeon varios_354: -1372186484
+      dungeon varios_21: -1488131346
+      dungeon varios_77: 1587115016
+      dungeon varios_191: -1290740705
+      dungeon varios_29: 480267960
+      dungeon varios_626: 1588269827
+      dungeon varios_168: 268505725
+      dungeon varios_349: 359834377
+      dungeon varios_141: 492915271
+      dungeon varios_19: -905989948
+      dungeon varios_66: 16638396
+      dungeon varios_651: 1133865682
+      dungeon varios_157: 1756384638
+      dungeon varios_231: -594030582
+      dungeon varios_159: 78430745
+      dungeon varios_412: -722250880
+      dungeon varios_448: 2035137912
+      dungeon varios_27: 576303312
+      dungeon varios_327: -1029603225
+      dungeon varios_408: 1506193529
+      dungeon varios_80: -1385531113
+      dungeon varios_488: 604003704
+      dungeon varios_536: 597256484
+      dungeon varios_155: 1531036547
+      dungeon varios_478: 512350375
+      dungeon varios_259: 173967894
+      dungeon varios_296: 163022408
+      dungeon varios_679: 1811130056
+      dungeon varios_530: -1736834868
+      dungeon varios_379: -1936724708
+      dungeon varios_459: -318773094
+      dungeon varios_601: 428245169
+      dungeon varios_568: -1502234680
+      dungeon varios_88: -531439005
+      dungeon varios_546: 511040536
+      dungeon varios_542: 1639673315
+      dungeon varios_672: -1829342201
+      dungeon varios_680: -1661222298
+      dungeon varios_122: -1311892254
+      dungeon varios_318: -1568131098
+      dungeon varios_55: 172027229
+      dungeon varios_306: -944405347
+      dungeon varios_192: 630008367
+      dungeon varios_486: 1621957422
+      dungeon varios_565: -1862084212
+      dungeon varios_606: 1611388438
+      dungeon varios_292: -352349221
+      dungeon varios_114: -1609431348
+      dungeon varios_499: -1076326952
+      dungeon varios_264: 913625066
+      dungeon varios_534: 1785771892
+      dungeon varios_96: -1001234574
+      dungeon varios_133: 931374021
+      dungeon varios_564: -548472037
+      dungeon varios_400: -590586252
+      dungeon varios_344: 323962280
+      dungeon varios_138: -1174068985
+      dungeon varios_358: -507962319
+      dungeon varios_469: 596655723
+      dungeon varios_432: -319949462
+      dungeon varios_184: -1801388740
+      dungeon varios_190: 1544955205
+      dungeon varios_631: -1397418381
+      dungeon varios_319: -1951985484
+      dungeon varios_423: -886396855
+      dungeon varios_464: -320085061
+      dungeon varios_475: -1916764872
+      dungeon varios_676: -2068554802
+      dungeon varios_497: 1238694718
+      dungeon varios_627: -575680258
+      dungeon varios_309: 1628468796
+      dungeon varios_127: 358493664
+      dungeon varios_314: 1403523330
+      dungeon varios_345: -1036741642
+      dungeon varios_1: -13313494
+      dungeon varios_527: 1329773867
+      dungeon varios_247: 1817830908
+      dungeon varios_440: -1040413424
+      dungeon varios_368: 1755948365
+      dungeon varios_366: 1048416569
+      dungeon varios_480: -516189221
+      dungeon varios_551: 2057132611
+      dungeon varios_675: -1552026195
+      dungeon varios_447: -1154590426
+      dungeon varios_330: 3679078
+      dungeon varios_451: -1591180668
+      dungeon varios_316: -1799153028
+      dungeon varios_178: 64304526
+      dungeon varios_434: -2109223856
+      dungeon varios_455: 2126222679
+      dungeon varios_69: -100598539
+      dungeon varios_161: -1702293789
+      dungeon varios_465: 2016588126
+      dungeon varios_166: 499185617
+      dungeon varios_110: 881719796
+      dungeon varios_132: -1124985283
+      dungeon varios_56: -1452104006
+      dungeon varios_539: 1983428253
+      dungeon varios_189: 2146506076
+      dungeon varios_622: -2131006781
+      dungeon varios_198: 1851271647
+      dungeon varios_515: -1932910440
+      dungeon varios_291: -2146160673
+      dungeon varios_348: -1969102751
+      dungeon varios_638: -1542795716
+      dungeon varios_563: 2019042568
+      dungeon varios_381: -2028757923
+      dungeon varios_689: 385301244
+      dungeon varios_468: 978566771
+      dungeon varios_93: 2008921194
+      dungeon varios_3: 2038689179
+      dungeon varios_290: -673626903
+      dungeon varios_181: 1902988608
+      dungeon varios_305: -1460657870
+      dungeon varios_212: 417126564
+      dungeon varios_506: -1542860919
+      dungeon varios_579: 1160494159
+      dungeon varios_435: 963604512
+      dungeon varios_280: 1534490190
+      dungeon varios_53: 2105312711
+      dungeon varios_494: -180525908
+      dungeon varios_367: -1784465131
+      dungeon varios_678: -431583753
+      dungeon varios_404: 576495027
+      dungeon varios_681: -1191620755
+      dungeon varios_79: -1075902431
+      dungeon varios_243: -591195446
+      dungeon varios_236: 1158326831
+      dungeon varios_659: 374634710
+      dungeon varios_7: -1362206033
+      dungeon varios_261: -1586998470
+      dungeon varios_326: 1198299629
+      dungeon varios_201: 1796674189
+      dungeon varios_308: 59233011
+      dungeon varios_329: -904372767
+      dungeon varios_617: -611882347
+      dungeon varios_592: 1246736199
+      dungeon varios_176: -217714209
+      dungeon varios_336: 1288926049
+      dungeon varios_648: 1087948250
+      dungeon varios_394: 1021841606
+      dungeon varios_150: 1157546496
+      dungeon varios_213: -311445101
+      dungeon varios_219: 117117450
+      dungeon varios_115: 1025072008
+      dungeon varios_200: -115363631
+      dungeon varios_424: -1446384671
+      dungeon varios_162: -401924112
+      dungeon varios_214: -1352493728
+      dungeon varios_598: -1005344848
+      dungeon varios_362: 1833464046
+      dungeon varios_119: -1754331131
+      dungeon varios_645: 1625478231
+      dungeon varios_171: 697590749
+      dungeon varios_121: 1428600334
+      dungeon varios_555: 1700149404
+      dungeon varios_662: 1170361873
+      dungeon varios_636: -1410443411
+      dungeon varios_537: -1065319860
+      dungeon varios_92: -1743211685
+      dungeon varios_102: -247399573
+      dungeon varios_642: 1310158611
+      dungeon varios_20: 1708349356
+      dungeon varios_508: 1727948485
+      dungeon varios_120: -5976782
+      dungeon varios_640: -1531926046
+      dungeon varios_554: 1459498948
+      dungeon varios_91: -948614672
+      dungeon varios_51: -1923484084
+      dungeon varios_100: -1360396243
+      dungeon varios_460: -853512548
+      dungeon varios_383: -1612148892
+      dungeon varios_452: 602619574
+      dungeon varios_226: 1172620773
+      dungeon varios_45: -86753803
+      dungeon varios_611: -1207608675
+      dungeon varios_612: -850079565
+      dungeon varios_409: -311268709
+      dungeon varios_442: 252963456
+      dungeon varios_242: 1480540367
+      dungeon varios_221: -1805666509
+      dungeon varios_673: 1021350451
+      dungeon varios_384: -56839462
+      dungeon varios_241: 708932430
+      dungeon varios_234: -1361544894
+      dungeon varios_476: 306385805
+      dungeon varios_61: 1326245203
+      dungeon varios_596: -1730483116
+      dungeon varios_593: 1690637461
+      dungeon varios_224: -56022418
+      dungeon varios_690: -2097926203
+      dungeon varios_553: -1737042494
+      dungeon varios_414: -420925250
+      dungeon varios_538: -1405463967
+      dungeon varios_18: 1909185253
+      dungeon varios_397: 12734808
+      dungeon varios_282: -1695754561
+      dungeon varios_509: -2093448761
+      dungeon varios_245: -1312970917
+      dungeon varios_652: -1905617634
+      dungeon varios_175: 1803218890
+      dungeon varios_570: 1642424205
+      dungeon varios_607: -686876950
+      dungeon varios_262: -142034043
+      dungeon varios_36: -1732833282
+      dungeon varios_233: 1043744060
+      dungeon varios_48: -288168946
+      dungeon varios_633: -196855271
+      dungeon varios_23: -105793310
+      dungeon varios_490: 1628064250
+      dungeon varios_343: -1058639063
+      dungeon varios_562: -529577388
+      dungeon varios_38: -1376285146
+      dungeon varios_482: 374647049
+      dungeon varios_81: -1274671145
+      dungeon varios_686: -277257640
+      dungeon varios_380: -2101798295
+      dungeon varios_278: 961497217
+      dungeon varios_535: -488606195
+      dungeon varios_485: -552243946
+      dungeon varios_293: -329689833
+      dungeon varios_285: 1053329436
+      dungeon varios_252: 576612077
+      dungeon varios_634: -456999800
+      dungeon varios_613: 180079107
+      dungeon varios_216: -229649169
+      dungeon varios_240: 1914497953
+      dungeon varios_325: -110616174
+      dungeon varios_144: 1056454982
+      dungeon varios_311: 1599116675
+      dungeon varios_635: 1443211027
+      dungeon varios_585: -316805181
+      dungeon varios_540: -1516912115
+      dungeon varios_205: 843956349
+      dungeon varios_628: 294788526
+      dungeon varios_514: 1089182131
+      dungeon varios_453: -394447676
+      dungeon varios_501: -222182190
+      dungeon varios_341: 1803055075
+      dungeon varios_195: 1459903719
+      dungeon varios_591: -392220633
+      dungeon varios_215: 2003667209
+      dungeon varios_549: 343357379
+      dungeon varios_428: 288379571
+      dungeon varios_513: -1090734816
+      dungeon varios_639: 560068664
+      dungeon varios_578: -1307475107
+      dungeon varios_544: 1166564685
+      dungeon varios_352: 1200078912
+      dungeon varios_376: 789030562
+      dungeon varios_220: -1167174042
+      dungeon varios_251: -1027506000
+      dungeon varios_603: -1981906459
+      dungeon varios_253: -280379059
+      dungeon varios_68: 17473689
+      dungeon varios_483: 462667917
+      dungeon varios_87: 1964153297
+      dungeon varios_421: -356570262
+      dungeon varios_472: 1080408508
+      dungeon varios_8: -1145515248
+      dungeon varios_609: 358853775
+      dungeon varios_691: -1575574791
+      dungeon varios_11: 1022408770
+      dungeon varios_52: -568171493
+      dungeon varios_683: -1570112747
+      dungeon varios_274: 1259525056
+      dungeon varios_365: -471680190
+      dungeon varios_389: -619109179
+      dungeon varios_151: -724157699
+      dungeon varios_687: 1170060710
+      dungeon varios_197: -1941621726
+      dungeon varios_610: -1327082294
+      dungeon varios_256: -109495022
+      dungeon varios_624: -1477566844
+      dungeon varios_548: 1589544565
+      dungeon varios_284: 576461697
+      dungeon varios_511: -1961373003
+      dungeon varios_632: -51737740
+      dungeon varios_418: 163079138
+      dungeon varios_393: -71741310
+      dungeon varios_411: -1760116102
+      dungeon varios_239: -1282456422
+      dungeon varios_340: 505733252
+      dungeon varios_85: -1758753369
+      dungeon varios_46: -240844146
+      dungeon varios_656: -638589167
+      dungeon varios_99: 753358671
+      dungeon varios_47: -1873186272
+      dungeon varios_572: -630788510
+      dungeon varios_667: 467964815
+      dungeon varios_65: 168964953
+      dungeon varios_90: 1688504020
+      dungeon varios_492: 827675810
+      dungeon varios_401: -319753768
+      dungeon varios_395: -1411854462
+      dungeon varios_97: 160888884
+      dungeon varios_31: -1500133547
+      dungeon varios_405: -1874681359
+      dungeon varios_9: -787482533
+      dungeon varios_270: -1613034516
+      dungeon varios_524: -1990923507
+      dungeon varios_576: -2016745930
+      dungeon varios_353: -679050162
+      dungeon varios_26: -1023556972
+      dungeon varios_484: -1507013411
+      dungeon varios_543: 511689444
+      dungeon varios_623: -556246892
+      dungeon varios_557: 1416195148
+      dungeon varios_194: 434010935
+      dungeon varios_64: 753590778
+      dungeon varios_185: 1378235001
+      dungeon varios_600: 167352403
+      dungeon varios_684: 662646235
+      dungeon varios_688: 2051823984
+      dungeon varios_664: -1915147109
+      dungeon varios_167: 708001640
+      dungeon varios_529: 2057016094
+      dungeon varios_575: 722692763
+      dungeon varios_199: 1842300846
+      dungeon varios_355: 30882386
+      dungeon varios_60: 1835908504
+      dungeon varios_489: 1233630011
+      dungeon varios_519: -1602411215
+      dungeon varios_63: -910093196
+      dungeon varios_218: -969472076
+      dungeon varios_206: -850151811
+      dungeon varios_413: 522657920
+      dungeon varios_35: -1906036776
+      dungeon varios_74: -1693131459
+      dungeon varios_165: 1235485366
+      dungeon varios_30: -789557956
+      dungeon varios_228: -1038577238
+      dungeon varios_222: -1615038029
+      dungeon varios_50: -1344666938
+      dungeon varios_103: -188526095
+      dungeon varios_620: 1502328072
+      dungeon varios_142: -1038259180
+      dungeon varios_211: -1275653314
+      dungeon varios_458: 660503057
+      dungeon varios_528: 1986314957
+      dungeon varios_351: 1476537727
+      dungeon varios_227: -1693381950
+      dungeon varios_113: -1131332513
+      dungeon varios_498: 2065838706
+      dungeon varios_493: -584924030
+      dungeon varios_641: -87677876
+      dungeon varios_266: -1950159408
+      dungeon varios_57: -533830105
+      dungeon varios_104: 2081919866
+      dungeon varios_545: -1556770615
+      dungeon varios_649: -1013120121
+      dungeon varios_276: 1222185107
+      dungeon varios_174: 495336016
+      dungeon varios_347: -877517341
+      dungeon varios_153: -651056847
+      dungeon varios_533: -1533240114
+      dungeon varios_324: -2019918624
+      dungeon varios_14: -308997543
+      dungeon varios_44: -952798898
+      dungeon varios_457: -1150458661
+      dungeon varios_595: -1472048152
+      dungeon varios_375: 25964389
+      dungeon varios_0: 2140738388
+      dungeon varios_203: 1608815081
+      dungeon varios_505: 1960934719
+      dungeon varios_438: -1945762089
+      dungeon varios_586: 894111403
+      dungeon varios_429: 2127205062
+      dungeon varios_350: -742208090
+      dungeon varios_454: -822624727
+      dungeon varios_504: 2110704668
+      dungeon varios_463: 1157173606
+      dungeon varios_13: 1946633262
+      dungeon varios_49: 1201011379
+      dungeon varios_461: 567961510
+      dungeon varios_2: 135727340
+      dungeon varios_238: -909029082
+      dungeon varios_608: -1983682614
+      dungeon varios_390: 1845808530
+      dungeon varios_207: -1103447203
+      dungeon varios_491: 261727097
+      dungeon varios_40: -1557189837
+      dungeon varios_525: -796888570
+      dungeon varios_477: -1909440123
+      dungeon varios_674: 1198991249
+      dungeon varios_17: -1458881001
+      dungeon varios_300: -823956509
+      dungeon varios_283: 2095920084
+      dungeon varios_338: -1453508938
+      dungeon varios_299: -106878046
+      dungeon varios_41: 1704262142
+      dungeon varios_637: -1485113078
+      dungeon varios_403: 559973583
+      dungeon varios_331: 662187887
+      dungeon varios_209: -1476576798
+      dungeon varios_503: -1082111605
+      dungeon varios_128: -152961684
+      dungeon varios_163: 2058023432
+      dungeon varios_210: 871884302
+      dungeon varios_136: -1977037670
+      dungeon varios_541: -338789080
+      dungeon varios_249: -1045223681
+      dungeon varios_78: -337336009
+      dungeon varios_62: 916735447
+      dungeon varios_303: 1958642431
+      dungeon varios_369: -348182589
+      dungeon varios_297: -927017603
+      dungeon varios_655: -305811768
+      dungeon varios_471: -1111476156
+      dungeon varios_217: -1918757946
+      dungeon varios_28: -707036595
+      dungeon varios_552: -836618320
+      dungeon varios_82: -940889879
+      dungeon varios_481: 1694149941
+      dungeon varios_70: 1264263720
+      dungeon varios_129: -1387584327
+      dungeon varios_39: -195785587
+      dungeon varios_131: -832655492
+      dungeon varios_244: -391431068
+      dungeon varios_322: -338637731
+      dungeon varios_275: -404486398
+      dungeon varios_135: -1037604816
+      dungeon varios_590: -1543570867
+      dungeon varios_474: 965066831
+      dungeon varios_34: 986275237
+      dungeon varios_76: 2025141249
+      dungeon varios_143: -567060222
+      dungeon varios_289: 1040306700
+      dungeon varios_445: 336050241
+      dungeon varios_84: 1267170357
+      dungeon varios_134: -738192380
+      dungeon varios_512: -220747491
+      dungeon varios_246: -1625325064
+      dungeon varios_71: 616726358
+      dungeon varios_467: -1096248403
+      dungeon varios_277: 1546400860
+      dungeon varios_462: 1721361075
+      dungeon varios_33: -1474475647
+      dungeon varios_581: -1513031800
+      dungeon varios_372: -94248802
+      dungeon varios_396: 16907848
+      dungeon varios_361: -2071417968
+      dungeon varios_431: 101587021
+      dungeon varios_67: -763218110
+      dungeon varios_118: -2128014079
+      dungeon varios_229: 1506565980
+      dungeon varios_574: -454107967
+      dungeon varios_272: -1138241342
+      dungeon varios_558: -1093526437
+      dungeon varios_124: 715473310
+      dungeon varios_333: 552110966
+      dungeon varios_25: -1727082688
+      dungeon varios_187: -1806255284
+      dungeon varios_522: 840281328
+      dungeon varios_279: 2043236643
+      dungeon varios_658: 733063655
+      dungeon varios_487: 2143138332
+      dungeon varios_653: 1868684980
+      dungeon varios_449: 682809263
+      dungeon varios_24: 1377464259
+      dungeon varios_188: 923558283
+      dungeon varios_288: -1156734034
+      dungeon varios_436: -304155244
+      dungeon varios_208: -1100741493
+      dungeon varios_604: -2071240474
+      dungeon varios_420: -2138233600
+      dungeon varios_426: -1402970891
+      dungeon varios_230: -304203832
+      dungeon varios_37: -1182437572
+      dungeon varios_313: -1070484547
+      dungeon varios_4: 446044769
+      dungeon varios_425: -1796915692
+      dungeon varios_359: -1834304528
+      dungeon varios_582: -1596183095
+      dungeon varios_594: -1850911588
+      dungeon varios_172: 231694747
+      dungeon varios_335: -1994994860
+      dungeon varios_170: -1409186898
+      dungeon varios_677: 852392647
+      dungeon varios_98: 1824788290
+      dungeon varios_186: -1619021388
+      dungeon varios_204: -646507513
+      dungeon varios_83: 773975930
+      dungeon varios_268: 270564014
+      dungeon varios_73: -763299083
+      dungeon varios_446: -176040894
+      dungeon varios_450: 1371404687
+      dungeon varios_315: -2100412915
+      dungeon varios_629: -1050807351
+      dungeon varios_416: 917443681
+      dungeon varios_357: -1039635267
+      dungeon varios_406: -1502936017
+      dungeon varios_660: 542844435
+      dungeon varios_580: 1259540259
+      dungeon varios_106: 574009055
+      dungeon varios_433: 1834325677
+      dungeon varios_615: -151785922
+      dungeon varios_260: 912692037
+      dungeon varios_654: 1859109705
+      dungeon varios_304: -1206582340
+      dungeon varios_164: 868047099
+      dungeon varios_180: 1719857868
+      dungeon varios_232: 1361424810
+      dungeon varios_370: 86973612
+      dungeon varios_444: -654082220
+      dungeon varios_668: 1892188290
+      dungeon varios_5: -93003131
+      dungeon varios_15: -36575634
+      dungeon varios_550: 650107282
+      dungeon varios_665: 1054234673
+      dungeon varios_126: -1673418468
+      dungeon varios_54: 673106603
+      dungeon varios_105: -46216435
+      dungeon varios_140: -2132084780
+      dungeon varios_271: -515652385
+      dungeon varios_466: -1128275447
+      dungeon varios_94: 2047397485
+      dungeon varios_597: 1715727709
+      dungeon varios_342: -657707994
+      dungeon varios_616: 1972773207
+      dungeon varios_473: -1157728186
+      dungeon varios_670: 866106185
+      dungeon varios_146: 722377662
+      dungeon varios_657: -1705348249
+      dungeon varios_130: -937698944
+      dungeon varios_248: -2141240055
+      dungeon varios_250: -1077798172
+      dungeon varios_139: 697702388
+      dungeon varios_196: -1812541113
+      dungeon varios_202: 1218017076
+      dungeon varios_573: 400440767
+      dungeon varios_571: -847568794
+      dungeon varios_22: -1489591532
+      dungeon varios_173: -23958859
+      dungeon varios_526: 488727823
+      dungeon varios_521: -1540566786
+      dungeon varios_430: -446095085
+      dungeon varios_518: 738635860
+      dungeon varios_650: 227421017
+      dungeon varios_117: -31954594
+      dungeon varios_148: -1391260435
+      dungeon varios_160: -807953552
+      dungeon varios_6: 1919247336
+      dungeon varios_43: -68512162
+      dungeon varios_225: 751173265
+      dungeon varios_470: 1579523921
+      dungeon varios_391: 1317646199
+      dungeon varios_625: 817379178
+      dungeon varios_427: 1666239711
+      dungeon varios_692: -1344485449
+      dungeon varios_177: -1663697417
+      dungeon varios_663: 676811105
+      dungeon varios_363: -981070772
+      dungeon varios_386: 447256617
+      dungeon varios_583: -1037932292
+      dungeon varios_605: 682497227
+      dungeon varios_147: 203959099
+      dungeon varios_587: -769054566
+      dungeon varios_72: -1676356186
+      dungeon varios_531: -586655451
+      dungeon varios_101: -1864429369
+      dungeon varios_156: 291635356
+      dungeon varios_183: -1964171178
+      dungeon varios_10: 1822054094
+      dungeon varios_502: -1850862517
+      dungeon varios_321: -1757683703
+      dungeon varios_95: 1975231683
+      dungeon varios_547: -1310790139
+      dungeon varios_273: 2054121219
+      dungeon varios_417: 1210150400
+      dungeon varios_255: 1627281107
+      dungeon varios_441: -1434275351
+      dungeon varios_334: 427751644
+      dungeon varios_312: -2018709939
+      dungeon varios_346: 255031273
+      dungeon varios_496: 1190977492
+      dungeon varios_517: -1810273321
+      dungeon varios_644: -682267069
+      dungeon varios_666: 609284967
+      dungeon varios_532: 1728034483
+      dungeon varios_32: 1917630850
+      dungeon varios_111: -1960312363
+      dungeon varios_339: -586017607
+      dungeon varios_685: 1342326103
+      dungeon varios_387: 1875709862
+      dungeon varios_373: 1456934095
+      dungeon varios_621: -1193632210
+      dungeon varios_182: -303522220
+      dungeon varios_443: -793916440
+      dungeon varios_507: -1110159046
+      dungeon varios_523: 938825192
+      dungeon varios_86: -35590485
+      dungeon varios_682: 1955951822
+      dungeon varios_602: -1326657978
+      dungeon varios_374: 1885318297
+      dungeon varios_630: -1106571329
+      dungeon varios_567: -1952754182
+      dungeon varios_193: 1081430923
+      dungeon varios_320: -1010319455
+      dungeon varios_295: 586117451
+      dungeon varios_152: -836891953
+      dungeon varios_661: -211914445
+      dungeon varios_569: 1596968945
+      dungeon varios_328: -1732635226
+      dungeon varios_422: 1228239112
+      dungeon varios_89: 2078347871
+      dungeon varios_257: 194398867
+      dungeon varios_154: 237452965
+      dungeon varios_286: -642192262
+      dungeon varios_618: -1095009769
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
