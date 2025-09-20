@@ -5,30 +5,41 @@ using UnityEngine.Tilemaps;
 
 public static class WFCGenerator
 {
-    // WFC simple: recorre la grilla; para cada celda filtra por compatibilidad con vecinos ya asignados.
-    public static TileBase[,] Generate(WFCTileset tileset, int width, int height, System.Random rng)
+    // Overload con restricciones por celda (lista de IDs permitidos).
+    public static TileBase[,] Generate(WFCTileset tileset, int width, int height, System.Random rng, List<string>[,] allowedPerCell)
     {
         if (tileset == null || tileset.modules.Count == 0)
             throw new ArgumentException("WFCTileset vacío");
 
         var result = new TileBase[width, height];
 
+        // Indexar módulos por ID para filtrar rápido.
+        var byId = new Dictionary<string, WFCTileset.TileModule>(StringComparer.Ordinal);
+        foreach (var m in tileset.modules)
+            if (!byId.ContainsKey(m.id)) byId[m.id] = m;
+
         for (int y = 0; y < height; y++)
         for (int x = 0; x < width; x++)
         {
-            var candidates = GetAllCandidates(tileset);
+            // Candidatos iniciales: restringidos por allowedPerCell si existe.
+            var candidates = new List<WFCTileset.TileModule>();
+            var allowed = allowedPerCell != null ? allowedPerCell[x, y] : null;
+            if (allowed != null && allowed.Count > 0)
+            {
+                foreach (var id in allowed)
+                    if (byId.TryGetValue(id, out var mod)) candidates.Add(mod);
+                if (candidates.Count == 0)
+                    candidates.AddRange(tileset.modules); // fallback si las IDs no coinciden
+            }
+            else
+            {
+                candidates.AddRange(tileset.modules);
+            }
 
-            // Filtrar por vecinos ya colapsados
-            if (y - 1 >= 0) // norte
-                FilterByNeighbor(candidates, tileset, result[x, y - 1], dir: 0);
-            if (x + 1 < width) // este (todavía sin asignar, no filtra)
-            { }
-            if (y + 1 < height) // sur (sin asignar)
-            { }
-            if (x - 1 >= 0) // oeste
-                FilterByNeighbor(candidates, tileset, result[x - 1, y], dir: 3);
+            // Filtrar por vecinos ya colapsados (N y W, dado el recorrido)
+            if (y - 1 >= 0) FilterByNeighbor(candidates, tileset, result[x, y - 1], dir: 0); // norte
+            if (x - 1 >= 0) FilterByNeighbor(candidates, tileset, result[x - 1, y], dir: 3); // oeste
 
-            // Elegir ponderado
             var chosen = ChooseWeighted(candidates, rng);
             result[x, y] = chosen?.tile ?? tileset.modules[0].tile;
         }
@@ -36,14 +47,13 @@ public static class WFCGenerator
         return result;
     }
 
-    private static List<WFCTileset.TileModule> GetAllCandidates(WFCTileset tileset)
-        => new List<WFCTileset.TileModule>(tileset.modules);
+    // Compatibilidad con llamadas existentes.
+    public static TileBase[,] Generate(WFCTileset tileset, int width, int height, System.Random rng)
+        => Generate(tileset, width, height, rng, null);
 
-    // dir: 0=norte,1=este,2=sur,3=oeste; neighborTile es el TileBase ya asignado en ese lado.
     private static void FilterByNeighbor(List<WFCTileset.TileModule> candidates, WFCTileset tileset, TileBase neighborTile, int dir)
     {
         if (neighborTile == null) return;
-        // Buscar el módulo del vecino por TileBase
         WFCTileset.TileModule neighbor = null;
         foreach (var m in tileset.modules)
         {
@@ -51,20 +61,12 @@ public static class WFCGenerator
         }
         if (neighbor == null) return;
 
-        // Qué IDs permite el vecino hacia el lado opuesto
         List<string> allowedIdsFromNeighbor = null;
         switch (dir)
         {
-            case 0: // el vecino está al norte; su lado sur debe permitirnos
-                allowedIdsFromNeighbor = neighbor.south; break;
-            case 1: // vecino al este; su oeste debe permitirnos
-                allowedIdsFromNeighbor = neighbor.west; break;
-            case 2: // vecino al sur; su norte debe permitirnos
-                allowedIdsFromNeighbor = neighbor.north; break;
-            case 3: // vecino al oeste; su este debe permitirnos
-                allowedIdsFromNeighbor = neighbor.east; break;
+            case 0: allowedIdsFromNeighbor = neighbor.south; break; // vecino al norte: miramos su sur
+            case 3: allowedIdsFromNeighbor = neighbor.east;  break; // vecino al oeste: miramos su este
         }
-
         if (allowedIdsFromNeighbor == null || allowedIdsFromNeighbor.Count == 0) return;
 
         candidates.RemoveAll(c => !allowedIdsFromNeighbor.Contains(c.id));
