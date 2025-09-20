@@ -65,5 +65,3 @@ Project-Stonehaven/
 ├── LICENSE
 └── README.md
 
-yaml
-Copiar código
