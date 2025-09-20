@@ -2027,3 +2027,58 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1355.105351 seconds.
+  path: Assets/New Universal Render Pipeline Asset_Renderer.asset
+  artifactKey: Guid(e2af752b1ecc3cf459dab37d55a53d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Universal Render Pipeline Asset_Renderer.asset using Guid(e2af752b1ecc3cf459dab37d55a53d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08999c4ca2ddfb3bd99ff18b55e67439') in 0.076837 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 200.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 81 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (0.7 MB). Loaded Objects now: 5992.
+Memory consumption went from 110.4 MB to 109.7 MB.
+Total: 5.486400 ms (FindLiveObjects: 0.438100 ms CreateObjectMapping: 0.142900 ms MarkObjects: 4.456500 ms  DeleteObjects: 0.447900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 57.850094 seconds.
+  path: Assets/New Universal Render Pipeline Asset_Renderer.asset
+  artifactKey: Guid(e2af752b1ecc3cf459dab37d55a53d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Universal Render Pipeline Asset_Renderer.asset using Guid(e2af752b1ecc3cf459dab37d55a53d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32515cccb05002b24f7b75f9d551ddcd') in 0.009474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 79.139340 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/GameOver.png
+  artifactKey: Guid(764a6a915b0067d44abc138da19b86e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/GameOver.png using Guid(764a6a915b0067d44abc138da19b86e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bd2b6f124532cbf40ba6b041d26d62') in 0.056814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006544 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/HealthManaZero.png
+  artifactKey: Guid(73e077329742bcb46983efe2d0ee45be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/HealthManaZero.png using Guid(73e077329742bcb46983efe2d0ee45be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc6e3baf4c76e26407dce0f1980956a') in 0.044254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/Health.png
+  artifactKey: Guid(96231983f2049a14f934c89e39ade51e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/Health.png using Guid(96231983f2049a14f934c89e39ade51e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aebcba4542df847289621d1605eb409') in 0.023871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/HealthAndMana.png
+  artifactKey: Guid(026257044789f71449a29d749ca9a9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/HealthAndMana.png using Guid(026257044789f71449a29d749ca9a9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412b0cd434a249c634130a5ca76ba75e') in 0.032691 seconds 

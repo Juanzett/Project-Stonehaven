@@ -221,3 +221,118 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 479039.361044 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png
+  artifactKey: Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png using Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1387d36745c374ab4e5a3d10ef6f19') in 0.144332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.107603 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(2a4915b4155a0814db95ab65a42f8ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(2a4915b4155a0814db95ab65a42f8ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc9607827d2075054a0521bc89b5631') in 0.019363 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.821607 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings 1.asset
+  artifactKey: Guid(5c137c850e2fa68498adb9e1a3151246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings 1.asset using Guid(5c137c850e2fa68498adb9e1a3151246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef76552b8882dd3c45611b2a84bf4c70') in 0.012346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.915766 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings 2.asset
+  artifactKey: Guid(5a1a7c526bc94e94f842184a3ed66ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings 2.asset using Guid(5a1a7c526bc94e94f842184a3ed66ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebee3761c77ef70ebad29e4da75c1964') in 0.012815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.875951 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.014238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.232986 seconds.
+  path: Assets/New Universal Render Pipeline Asset.asset
+  artifactKey: Guid(f44125e498f4b1a42b2fb9a37cbedb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Universal Render Pipeline Asset.asset using Guid(f44125e498f4b1a42b2fb9a37cbedb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3f7c3e645b549101b51cd3f0724bc9') in 0.059063 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 201.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 81 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (0.7 MB). Loaded Objects now: 5988.
+Memory consumption went from 100.1 MB to 99.4 MB.
+Total: 7.724000 ms (FindLiveObjects: 0.547900 ms CreateObjectMapping: 0.192800 ms MarkObjects: 6.642800 ms  DeleteObjects: 0.339000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 57.885870 seconds.
+  path: Assets/New Universal Render Pipeline Asset.asset
+  artifactKey: Guid(f44125e498f4b1a42b2fb9a37cbedb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Universal Render Pipeline Asset.asset using Guid(f44125e498f4b1a42b2fb9a37cbedb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a22507ccd37e8833613fffb5a86499') in 0.010315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(2a4915b4155a0814db95ab65a42f8ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(2a4915b4155a0814db95ab65a42f8ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b1f83ad8eaf40e9a862768332330ec2') in 0.004025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.640820 seconds.
+  path: Assets/Sprites/Wood Garden Asset Pack
+  artifactKey: Guid(135e86bd143da5243b26f6fc4d16c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Wood Garden Asset Pack using Guid(135e86bd143da5243b26f6fc4d16c69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3244b7c79bc5b6d1596d8e195fe4e5e8') in 0.012440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.097424 seconds.
+  path: Assets/Sprites/Wood Garden Asset Pack/Wood Garden Assets .png
+  artifactKey: Guid(b2ee1b8f95a5dd448bf90d14bea18612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Wood Garden Asset Pack/Wood Garden Assets .png using Guid(b2ee1b8f95a5dd448bf90d14bea18612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c66745fb84bbcdeebbabbd1c0c6a29f') in 0.048564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.112573 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites
+  artifactKey: Guid(776a96ca77fd613418ea74a65ad09a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites using Guid(776a96ca77fd613418ea74a65ad09a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe7fed735593528b711fa46a7b412d2') in 0.016679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.053285 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png
+  artifactKey: Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png using Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd372d98bb8bbabb6809569378f7a436e') in 0.020830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.446691 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png
+  artifactKey: Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png using Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f11b8222a1953d14c80c9dafe8a8c37') in 0.046063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.564936 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/DialogIndicator.png
+  artifactKey: Guid(53f53c6e4a3f6a64bb6743180b3ff8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/DialogIndicator.png using Guid(53f53c6e4a3f6a64bb6743180b3ff8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a571e32aeb27f64a72a12dc1d7764b6b') in 0.033146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028863 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/Health2.png
+  artifactKey: Guid(fc8de483a1c79454498bc68e1f13b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/Health2.png using Guid(fc8de483a1c79454498bc68e1f13b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d86d41cec4aa5d79bc1ad6b34b6ab7e') in 0.043990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/Mana.png
+  artifactKey: Guid(d9dcc96c41af51e459e8d1b3a77dc678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/UserInterface/Mana.png using Guid(d9dcc96c41af51e459e8d1b3a77dc678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e36e5e822699c178e0bf2d4b70f312') in 0.035283 seconds 
