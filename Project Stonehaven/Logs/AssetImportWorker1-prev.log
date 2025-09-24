@@ -15,7 +15,7 @@ F:/Program Files (x86)/GitHub/Project-Stonehaven/Project Stonehaven
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-50225
+51099
 Successfully changed project path to: F:/Program Files (x86)/GitHub/Project-Stonehaven/Project Stonehaven
 F:/Program Files (x86)/GitHub/Project-Stonehaven/Project Stonehaven
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ F:/Program Files (x86)/GitHub/Project-Stonehaven/Project Stonehaven
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 161.04 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 153.08 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
@@ -63,95 +63,95 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56204
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.027511 seconds.
+Registered in 0.020361 seconds.
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 174.28 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 144.05 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.997 seconds
+- Completed reload, in  0.892 seconds
 Domain Reload Profiling:
-	ReloadAssembly (997ms)
-		BeginReloadAssembly (109ms)
+	ReloadAssembly (893ms)
+		BeginReloadAssembly (110ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (687ms)
+		EndReloadAssembly (617ms)
 			LoadAssemblies (105ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (138ms)
+			SetupTypeCache (135ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (35ms)
-			SetupLoadedEditorAssemblies (431ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (375ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
+				InitializePlatformSupportModulesInManaged (17ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (174ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (168ms)
-				ProcessInitializeOnLoadMethodAttributes (68ms)
+				RefreshPlugins (144ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (153ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011685 seconds.
+Registered in 0.011475 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image F:\Program Files (x86)\GitHub\Project-Stonehaven\Project Stonehaven\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image F:\Program Files (x86)\GitHub\Project-Stonehaven\Project Stonehaven\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 166.62 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 145.39 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.768 seconds
+- Completed reload, in  1.722 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1769ms)
-		BeginReloadAssembly (158ms)
+	ReloadAssembly (1723ms)
+		BeginReloadAssembly (167ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (1454ms)
-			LoadAssemblies (152ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1394ms)
+			LoadAssemblies (154ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (354ms)
+			SetupTypeCache (342ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (79ms)
-			SetupLoadedEditorAssemblies (822ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (776ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (167ms)
-				BeforeProcessingInitializeOnLoad (162ms)
-				ProcessInitializeOnLoadAttributes (344ms)
-				ProcessInitializeOnLoadMethodAttributes (121ms)
-				AfterProcessingInitializeOnLoad (16ms)
+				RefreshPlugins (145ms)
+				BeforeProcessingInitializeOnLoad (157ms)
+				ProcessInitializeOnLoadAttributes (321ms)
+				ProcessInitializeOnLoadMethodAttributes (123ms)
+				AfterProcessingInitializeOnLoad (17ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 2.27 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 2.66 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5472 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 43 unused Assets / (0.7 MB). Loaded Objects now: 5926.
-Memory consumption went from 209.8 MB to 209.1 MB.
-Total: 8.603000 ms (FindLiveObjects: 0.770300 ms CreateObjectMapping: 0.450600 ms MarkObjects: 6.825400 ms  DeleteObjects: 0.553500 ms)
+Unloading 5529 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (0.7 MB). Loaded Objects now: 5981.
+Memory consumption went from 214.5 MB to 213.8 MB.
+Total: 9.045000 ms (FindLiveObjects: 0.770700 ms CreateObjectMapping: 0.555200 ms MarkObjects: 6.840400 ms  DeleteObjects: 0.876900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -165,22 +165,238 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 477244.218929 seconds.
-  path: Assets/Scenes/TestingScene.unity
-  artifactKey: Guid(da2519195adbe4b41aa373157792c820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/TestingScene.unity using Guid(da2519195adbe4b41aa373157792c820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85327f25c65c5ee431d81dd7db0ca2f6') in 0.033191 seconds 
+  Time since last request: 480324.100172 seconds.
+  path: Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png
+  artifactKey: Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MedievalFantasyAdventurerSprites/Blocky_VikingVillage_Tileset.png using Guid(d8f30cfc0b5a8e944ae751eae76b57be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8b52fc905595ee1c85ad0054b9e814') in 0.469362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 314.333914 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_1.asset
+  artifactKey: Guid(43be508a5925cb5478ed02b44f6ed5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_1.asset using Guid(43be508a5925cb5478ed02b44f6ed5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e3908b28760e7d177ccb420f09e2c4') in 0.063065 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000056 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61414b90807631f94edee692c2345f8') in 0.016525 seconds 
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_43.asset
+  artifactKey: Guid(d267027f280ebc942b2f0d5058a18257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_43.asset using Guid(d267027f280ebc942b2f0d5058a18257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d8c1fdb3555a815a7f8034b3ce2d79') in 0.053342 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 609.053482 seconds.
-  path: Assets/Prefabs/ProcessWood.prefab
-  artifactKey: Guid(70a394504cb4102438e982c45546c3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/ProcessWood.prefab using Guid(70a394504cb4102438e982c45546c3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ce4de6e82afee49f65bf0e5cbccf56') in 0.075552 seconds 
+  Time since last request: 0.000057 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_23.asset
+  artifactKey: Guid(317e0d6b6ec75e441b5f52a4d50c2dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_23.asset using Guid(317e0d6b6ec75e441b5f52a4d50c2dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a42918dd2e2a01b37cd0bc513d747a0') in 0.040006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_30.asset
+  artifactKey: Guid(4a90c64d69a8a7844ad72cd2d44c6b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_30.asset using Guid(4a90c64d69a8a7844ad72cd2d44c6b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8af09f6b1083560254f1b2acfd753c') in 0.035478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_28.asset
+  artifactKey: Guid(c95c9c50d97b3534484fc7a8fa640b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_28.asset using Guid(c95c9c50d97b3534484fc7a8fa640b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19953a71abc592c48ad3d3e12a62348a') in 0.040357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_24.asset
+  artifactKey: Guid(c19d129534e46e9408f78c1b21bb4641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_24.asset using Guid(c19d129534e46e9408f78c1b21bb4641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44811ce1ac82f95004e8595406c1f392') in 0.036765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_15.asset
+  artifactKey: Guid(7efdb9bb508f5ed4287968cb189e7b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_15.asset using Guid(7efdb9bb508f5ed4287968cb189e7b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd465a0db3360e45f30d5299ccefa3853') in 0.042423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_27.asset
+  artifactKey: Guid(63acd628363b473468839be2b6b50dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_27.asset using Guid(63acd628363b473468839be2b6b50dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691792e5f9d6ec005a68f4c1dcfce38d') in 0.048056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_42.asset
+  artifactKey: Guid(c48809a0f6138424ebbcb11ddae15dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_42.asset using Guid(c48809a0f6138424ebbcb11ddae15dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ca361fa552902caffa497f508e1019') in 0.037299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_2.asset
+  artifactKey: Guid(0350fd8491824384dac0dd5f0c436cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_2.asset using Guid(0350fd8491824384dac0dd5f0c436cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b422162482653d6fbeaf6f4ee74f1fed') in 0.034402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_44.asset
+  artifactKey: Guid(a25385005c73b214dbed65278ce18b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_44.asset using Guid(a25385005c73b214dbed65278ce18b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47e7e5a9109a25cb050ee27c5316360') in 0.035390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_45.asset
+  artifactKey: Guid(b4db71a6a52cc084f8c2e56934a697c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_45.asset using Guid(b4db71a6a52cc084f8c2e56934a697c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64888579be2e172d6551452c549d213b') in 0.034814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_47.asset
+  artifactKey: Guid(a0db135367008774588ed70badefe782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_47.asset using Guid(a0db135367008774588ed70badefe782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9252151e8a93e37897a984c6414922c1') in 0.038983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_4.asset
+  artifactKey: Guid(e61246b8b626ec946b1aa3161b69698c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_4.asset using Guid(e61246b8b626ec946b1aa3161b69698c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd82af6f60b83ef059e8febf85c9ceed') in 0.037819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_58.asset
+  artifactKey: Guid(209f08a2569c22844b4b170a0ec1f559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_58.asset using Guid(209f08a2569c22844b4b170a0ec1f559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd615bba0bfbfc55c56fb2bd065d137c') in 0.055995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_12.asset
+  artifactKey: Guid(14d07a4902c64664195baa550494e144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_12.asset using Guid(14d07a4902c64664195baa550494e144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc68325ff3c21df2dbfd80af503bc2a') in 0.034565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_8.asset
+  artifactKey: Guid(0a2a5a7f69d912c4d87961f8319bd3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_8.asset using Guid(0a2a5a7f69d912c4d87961f8319bd3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6cf80ad75cedc8c16c2873ded48fa7') in 0.035944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_17.asset
+  artifactKey: Guid(9dbb4ca8184eef54da9ca518b83e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_17.asset using Guid(9dbb4ca8184eef54da9ca518b83e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660db7ba0ad0c7c2ce0a25ed1e6c6919') in 0.035943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_34.asset
+  artifactKey: Guid(bd28245f68724134fa206c1c37f10075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_34.asset using Guid(bd28245f68724134fa206c1c37f10075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169ca5211fcaffa37344901560cfd17f') in 0.034186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_18.asset
+  artifactKey: Guid(c97adf6a3b02d9d479678c901520cd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_18.asset using Guid(c97adf6a3b02d9d479678c901520cd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8717fe84fc886e339a03b8ad0b2251fe') in 0.034168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_7.asset
+  artifactKey: Guid(8b18f5e86e9b29545a3c91f8bc1b1d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_7.asset using Guid(8b18f5e86e9b29545a3c91f8bc1b1d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b922ef6c82923346bc461ccc6fc5da') in 0.035133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_20.asset
+  artifactKey: Guid(841d3e1157dd06749b8c673ece94adf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_20.asset using Guid(841d3e1157dd06749b8c673ece94adf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f2e5761bd3a1fe7b5d1255b137252a') in 0.036784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_64.asset
+  artifactKey: Guid(b0d6ddd027798e24c9c936734d2b7407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_64.asset using Guid(b0d6ddd027798e24c9c936734d2b7407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2bf8aeb363167395682fc0a24392023') in 0.034118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_36.asset
+  artifactKey: Guid(a8696779f21518043860d92ef4dc9fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_36.asset using Guid(a8696779f21518043860d92ef4dc9fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18710a955435c43edf5a0896527ee7c1') in 0.037515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_48.asset
+  artifactKey: Guid(056dce08e2c9ef64798a95de326cabe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_48.asset using Guid(056dce08e2c9ef64798a95de326cabe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff379014ea0fe1aabc846609bb48b33') in 0.038145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_54.asset
+  artifactKey: Guid(6882993cc3ebfaa478b5cec59c690653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_54.asset using Guid(6882993cc3ebfaa478b5cec59c690653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43855c65654c1636ec033e72d8733a1e') in 0.033998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_35.asset
+  artifactKey: Guid(abd40b08fda5d3c4b822bf10837f41df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_35.asset using Guid(abd40b08fda5d3c4b822bf10837f41df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93397ad9af1f41d980feaa4ec831d213') in 0.034713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_74.asset
+  artifactKey: Guid(24b99feb29a4ab5418f5a31b355c0d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_74.asset using Guid(24b99feb29a4ab5418f5a31b355c0d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e5a2f49fc630b45e91d54fe8993852') in 0.035020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_53.asset
+  artifactKey: Guid(98ca3bd66315534439ba3b0554a5bf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_53.asset using Guid(98ca3bd66315534439ba3b0554a5bf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908f66ee566af3de858e177580c6a6d4') in 0.034954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_6.asset
+  artifactKey: Guid(2cddac4dd23fd8b46b0eabc3e89f08bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_6.asset using Guid(2cddac4dd23fd8b46b0eabc3e89f08bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d89128b5cd3f5ba3344836cb9d8092') in 0.034168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_50.asset
+  artifactKey: Guid(b69e2551c6483db4bb787f610f860da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_50.asset using Guid(b69e2551c6483db4bb787f610f860da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '322df0b32e5028ca62168595918cee8a') in 0.036951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_21.asset
+  artifactKey: Guid(fef3026c6a7e5ae4eadfa14ebc8b17d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_21.asset using Guid(fef3026c6a7e5ae4eadfa14ebc8b17d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e027e87e06e4a7a7867df21b32cbf526') in 0.036392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_46.asset
+  artifactKey: Guid(d37b3ca6ba3ba314599effef68f8a078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_46.asset using Guid(d37b3ca6ba3ba314599effef68f8a078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fb3323a9a3ea77458048f1d7184f33') in 0.034199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_14.asset
+  artifactKey: Guid(9dc5b80a6ead9064182536b1b08f1ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_14.asset using Guid(9dc5b80a6ead9064182536b1b08f1ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d56b9c4db56e304c8edbe8adbef6714') in 0.034149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_59.asset
+  artifactKey: Guid(fd9dbfc2b35ea624baf07f86e345d397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_59.asset using Guid(fd9dbfc2b35ea624baf07f86e345d397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b03dbefe9ae424fa5bf74666177402') in 0.038048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_56.asset
+  artifactKey: Guid(d34e1c05ec650d0469f71b730416fa0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_56.asset using Guid(d34e1c05ec650d0469f71b730416fa0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af0e909c209834f06175697e01cbc6a') in 0.035469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_51.asset
+  artifactKey: Guid(44b83a72bb07ff04ba78741a977c9cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_51.asset using Guid(44b83a72bb07ff04ba78741a977c9cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec7e422a53fdffb8bb929088d4b3fa9') in 0.034831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_16.asset
+  artifactKey: Guid(0f8df0b688ca8c545b016ba8bf1769c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Viking/Blocky_VikingVillage_Tileset_16.asset using Guid(0f8df0b688ca8c545b016ba8bf1769c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3659b457eca82c50929802b1bfe2e266') in 0.040010 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
